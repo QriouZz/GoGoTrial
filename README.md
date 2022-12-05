@@ -1,0 +1,2 @@
+# GoGoTrial
+Übungen Course Golang
